@@ -1,0 +1,17 @@
+{
+  "name": "nmp_demo",
+  "version": "1.0.0",
+  "description": "I am demonstrating npm",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatever"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^6.6.2"
+  }
+}
